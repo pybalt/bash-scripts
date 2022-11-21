@@ -1,2 +1,2 @@
 # bash-scripts
-A collection of all my bash scripts on linux
+A collection of all my scripts on linux
